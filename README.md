@@ -1,4 +1,4 @@
-[ANY] Reject Client [V 1.0]
+[ANY] Reject Client [V 1.1]
 ===================
 
 Description
