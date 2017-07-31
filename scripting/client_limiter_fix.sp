@@ -13,9 +13,9 @@ ConVar cvMaxClients; // -> ConVar of the client limit
 
 public Plugin myinfo = 
 {
-	name = "Reject client",
+	name = "CLient Limiter Fix",
 	author = "Luckiris",
-	description = "Reject client when server is full (block connect by console)",
+	description = "Reject client when server is full (limit set up in cfg)",
 	version = "1.1",
 	url = "http://dream-community.de/"
 };
