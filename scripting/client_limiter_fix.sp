@@ -51,7 +51,7 @@ public void OnClientPostAdminCheck(int client)
 	   IF the client dosen't meet the requirments
 	   THEN the client is kicked from the server
 	*/
-	if ((gClientsOnline >= GetConVarInt(cvMaxClients)) && (!CheckCommandAccess(client, "sm_admin", ADMFLAG_BAN, true)))
+	if ((gClientsOnline > GetConVarInt(cvMaxClients)) && (!CheckCommandAccess(client, "sm_admin", ADMFLAG_BAN, true)))
 	{
 		KickClient(client, "%T", "Kicked");
 	}
