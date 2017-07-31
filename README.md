@@ -16,3 +16,7 @@ Changelog
 -------------
 > - V 1.0 : Release of the plugin.
 > - V 1.1 (27 july 2017) : Updated the name of the plugin, cvars. Translations added. Comments added.
+
+Credits
+-------------
+Sky : German translation
