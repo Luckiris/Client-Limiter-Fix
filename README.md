@@ -3,7 +3,7 @@
 
 Description
 -------------
-Sourcemod plugin which kick players who are trying to connect to a server which is full.
+Sourcemod plugin which kick players who are trying to connect to a server with a client limit set up by someone.
 
 Cvars
 -------------
