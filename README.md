@@ -1,4 +1,4 @@
-[ANY] Reject Client [V 1.1]
+[ANY] Client limiter Fix [V 1.1]
 ===================
 
 Description
@@ -8,9 +8,9 @@ Sourcemod plugin which kick players who are trying to connect to a server which 
 Cvars
 -------------
 > - sm_clientLimiter_maxplayers
->> - // Maximum number of players that the server should have.
->> - // Default: "20"
->> - sm_clientLimiter_maxplayers "20"
+    - // Maximum number of players that the server should have.
+    - // Default: "20"
+    - sm_clientLimiter_maxplayers "20"
 
 Changelog
 -------------
