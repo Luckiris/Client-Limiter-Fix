@@ -4,6 +4,6 @@
 	{
 		"en"			"The server is full !"
 		"fr"			"Le serveur est plein !"
-		"de"			"Please fill here !"
+		"de"			"Der Server ist voll !"
 	}
 }
