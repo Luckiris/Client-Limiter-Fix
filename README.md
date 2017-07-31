@@ -7,10 +7,7 @@ Sourcemod plugin which kick players who are trying to connect to a server which 
 
 Cvars
 -------------
-> - sm_clientLimiter_maxplayers
-    - // Maximum number of players that the server should have.
-    - // Default: "20"
-    - sm_clientLimiter_maxplayers "20"
+> - sm_clientLimiter_maxplayers "20" (Default: "20" - Maximum number of players that the server should have.)
 
 Changelog
 -------------
