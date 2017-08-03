@@ -16,7 +16,7 @@ public Plugin myinfo =
 	name = "CLient Limiter Fix",
 	author = "Luckiris",
 	description = "Reject client when server is full (limit set up in cfg)",
-	version = "1.1",
+	version = "1.2",
 	url = "http://dream-community.de/"
 };
 
@@ -53,7 +53,7 @@ public void OnClientPostAdminCheck(int client)
 	*/
 	if ((gClientsOnline > GetConVarInt(cvMaxClients)) && (!CheckCommandAccess(client, "sm_admin", ADMFLAG_BAN, true)))
 	{
-		KickClient(client, "%T", "Kicked");
+		KickClient(client, "%t", "Kicked");
 	}
 }
 

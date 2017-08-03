@@ -13,6 +13,7 @@ Changelog
 -------------
 > - V 1.0 : Release of the plugin.
 > - V 1.1 (27 july 2017) : Updated the name of the plugin, cvars. Translations added. Comments added.
+> - V 1.2 (03 august 2017) : Fixed the error that was making the plugin not working.
 
 Credits
 -------------
