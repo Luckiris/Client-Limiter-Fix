@@ -2,8 +2,8 @@
 {
 	"Kicked"
 	{
-		"en"			"The server is full !"
-		"fr"			"Le serveur est plein !"
-		"de"			"Der Server ist voll !"
+		"en"			"The server is full, please try again later!"
+		"fr"			"Le serveur est plein, veuillez réessayer plus tard!"
+		"de"			"Der Server ist voll, bitte versuch es später erneut!"
 	}
 }
