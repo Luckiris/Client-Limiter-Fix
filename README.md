@@ -17,5 +17,5 @@ Changelog
 
 Credits
 -------------
-Sky : German translation
-Nachtfrische : Make the kick message more friendly
+> - Sky : German translation
+> - Nachtfrische : Make the kick message more friendly
