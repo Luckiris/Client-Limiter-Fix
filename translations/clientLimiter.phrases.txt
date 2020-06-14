@@ -5,6 +5,7 @@
 		"en"			"The server is full, please try again later!"
 		"fr"			"Le serveur est plein, veuillez réessayer plus tard!"
 		"de"			"Der Server ist voll, bitte versuch es später erneut!"
-		"chi"           "服务器已满，请稍后再试！"
+		"chi"         	  "服务器已满，请稍后再试！"
+		"zho"             "伺服器已滿，請稍後再試！"
 	}
 }
